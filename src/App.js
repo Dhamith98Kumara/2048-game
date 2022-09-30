@@ -9,9 +9,19 @@ function App() {
     [0,0,0,0],
   ])
 
+  //Initialize
+
+  //AddNumber - Add an item
+
+  //Swipe - right, left , up, down
+
+  //check gameover
+
+  //reset
+
   return (
     <div style={{
-      background : "#AD9D8F",
+      background : "linear-gradient( 150.26deg, rgba(23, 85, 83, 0.7) 1.7%, rgba(67, 217, 173, 0.091) 81.82%)", 
       width : "max-content",
       margin : "auto",
       padding : 5,
